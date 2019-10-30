@@ -73,7 +73,7 @@
     "redis": "^2.0.0",
     "request": "^2.0.0",
     "request-promise": "^4.0.0",
-    "sequelize": "^4.0.0",
+    "sequelize": "^5.15.1",
     "simple-youtube-api": "^3.0.0",
     "snekfetch": "^3.0.0",
     "tsubaki": "^1.0.0",
